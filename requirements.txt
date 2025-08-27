@@ -1,0 +1,6 @@
+numpy
+matplotlib
+cvxpy
+casadi
+jupyter
+folium
